@@ -28,4 +28,6 @@ The `forestfire.py` file has a simulation of what could happen in a lockdown. It
 
 More info can be found [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
-I would also like to thank Aalaap Nair for helping me with this project.
+Contributors
+1. [Aalaap Nair](https://github.com/fermiverse)
+2. [Shanmugha Balan](https://github.com/sbalan7)
